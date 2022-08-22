@@ -7,5 +7,6 @@
 <li>Copy .env.example file to .env and edit database credentials there</li>
 <li>Run composer install</li>
 <li>Run php artisan:migrate</li>
+<li>Run php artisan storage:link</li>
 <li>Run php artisan key:generate</li>
 </ul>  
