@@ -6,7 +6,8 @@
 <li>Clone the repository with git clone</li>
 <li>Copy .env.example file to .env and edit database credentials there</li>
 <li>Run composer install</li>
-<li>Run php artisan:migrate</li>
+<li>Run php artisan migrate</li>
 <li>Run php artisan storage:link</li>
 <li>Run php artisan key:generate</li>
+<li>Run php artisan serve</li>
 </ul>  
